@@ -32,13 +32,13 @@ A simple and fun game built with Python and Pygame where players catch falling o
 ## Navigate to the project directory:
 
 ```bash
-Copy code
+
 cd catch-the-falling-object
 Create a virtual environment (if you haven't already):
 ```
 
 ```bash
-Copy code
+
 python -m venv .venv
 ```
 
@@ -47,21 +47,18 @@ python -m venv .venv
 On Windows:
 
 ```bash
-Copy code
 .venv\Scripts\activate
 ```
 
 On macOS/Linux:
 
 ```bash
-Copy code
 source .venv/bin/activate
 ```
 
 ## Install the required dependencies:
 
 ```bash
-Copy code
 pip install -r requirements.txt
 
 ```
@@ -69,7 +66,6 @@ pip install -r requirements.txt
 ## Run the game:
 
 ```bash
-Copy code
 python main.py
 ```
 
@@ -81,7 +77,7 @@ Click on the Fork button at the top right of this page to create a copy of this 
 Clone your forked repository:
 
 ```bash
-Copy code
+
 git clone https://github.com/yourusername/catch-the-falling-object.git
 ```
 
@@ -91,7 +87,7 @@ Implement your changes or improvements to the game.
 Commit your changes:
 
 ```bash
-Copy code
+
 git add .
 git commit -m "Describe your changes"
 ```
@@ -99,7 +95,7 @@ git commit -m "Describe your changes"
 Push your changes to your fork:
 
 ```bash
-Copy code
+
 git push origin master
 ```
 
@@ -111,7 +107,6 @@ pygame – A cross-platform set of Python modules used for writing video games.
 To install the dependencies, make sure you have activated the virtual environment and run:
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 
