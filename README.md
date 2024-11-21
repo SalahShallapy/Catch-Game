@@ -50,7 +50,7 @@ On Windows:
 .venv\Scripts\activate
 ```
 
-On macOS/Linux:
+On macOS / Linux:
 
 ```bash
 source .venv/bin/activate
